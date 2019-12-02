@@ -31,3 +31,39 @@ X - empresa de grande porte: a pessoa jurídica que tiver receita bruta anual s
 XI - sistema de registro: sistema destinado ao registro de ativos financeiros operado por entidade registradora autorizada a realizar a atividade de registro pelo Banco Central do Brasil; e
 
 XII - cliente sacador: cliente da instituição financeira, emissor de duplicatas escriturais.
+
+
+Art. 3o A negociação de recebíveis mercantis por parte das instituições financeiras deverá se dar:
+
+I - a partir de 390 (trezentos e noventa) dias contados da vigência desta Resolução, com empresas de grande porte, exclusivamente por meio de duplicatas escriturais representativas desses recebíveis;
+
+II - a partir de 510 (quinhentos e dez) dias contados da vigência desta Resolução, com empresas de médio porte, exclusivamente por meio de duplicatas escriturais representativas desses recebíveis; e
+
+III - a partir de 690 (seiscentos e noventa) dias contados da vigência desta Resolução, com microempresas e empresas de pequeno porte, exclusivamente por meio de duplicatas escriturais representativas desses recebíveis.
+
+
+Art. 4o Para a realização das operações mencionadas no art. 1o que envolvam duplicatas escriturais, as instituições financeiras devem assegurar que essas duplicatas sejam registradas em sistemas de registro.
+
+
+Art. 5o Nos contratos que formalizem as operações mencionadas no art. 1o que envolvam duplicatas escriturais, as instituições financeiras devem:
+
+I - especificar as duplicatas constituídas e a constituir que sejam objeto da operação;
+
+II - requerer a autorização do cliente sacador para o envio de informações sobre o contrato para o sistema de registro;
+
+III - especificar a instituição domicílio para liquidação financeira das duplicatas escriturais objeto da operação; e
+
+IV - especificar, no caso das operações de que trata o art. 2o, inciso VI, as condições para liberação dos recursos provenientes da liquidação financeira das duplicatas escriturais.
+
+
+Art. 6o Nos ambientes dos sistemas de registro nos quais estejam registradas as duplicatas escriturais objeto das operações mencionadas no art. 1o, as instituições financeiras devem:
+
+I - informar a alteração na titularidade efetiva das duplicatas escriturais, quando cabível, no mesmo dia em que o contrato for celebrado; e
+
+II - dar o comando para a constituição de gravames e de ônus sobre as duplicatas escriturais objeto das operações, quando cabível, conforme regulamento do sistema de registro em que elas estejam registradas.
+
+
+Art. 7o As instituições financeiras beneficiárias devem providenciar a desconstituição dos gravames e dos ônus sobre as duplicatas escriturais remanescentes dadas em garantia das operações de crédito, em até dois dias úteis após o cumprimento das obrigações pelo cliente sacador relativas às operações de crédito por ele contratadas ou quando do cancelamento de limite de crédito não cancelável incondicional e unilateralmente pela instituição financeira por solicitação desse cliente.
+
+
+Art. 8o Esta Resolução entra em vigor na data de sua publicação.
