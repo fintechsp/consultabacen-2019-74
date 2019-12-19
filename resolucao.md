@@ -28,7 +28,7 @@ IX - empresa de médio porte: a pessoa jurídica que tiver receita bruta anual
 
 X - empresa de grande porte: a pessoa jurídica que tiver receita bruta anual superior a R$300.000.000,00 (trezentos milhões de reais), nos termos do art. 3o, parágrafo único, da Lei no 11.638, de 28 de dezembro de 2007;
 
-XI - sistema de registro: sistema destinado ao registro de ativos financeiros operado por entidade registradora autorizada a realizar a atividade de registro pelo Banco Central do Brasil; e
+XI - sistema de registro: rede DLT ou Blockchain com contratos inteligentes destinado ao registro de ativos financeiros operado por entidades registradoras autorizadas a realizar a atividade de registro pelo Banco Central do Brasil; e
 
 XII - cliente sacador: cliente da instituição financeira, emissor de duplicatas escriturais.
 
@@ -56,11 +56,11 @@ III - especificar a instituição domicílio para liquidação financeira d
 IV - especificar, no caso das operações de que trata o art. 2o, inciso VI, as condições para liberação dos recursos provenientes da liquidação financeira das duplicatas escriturais.
 
 
-Art. 6o Nos ambientes dos sistemas de registro nos quais estejam registradas as duplicatas escriturais objeto das operações mencionadas no art. 1o, as instituições financeiras devem:
+Art. 6o No ambiente da rede DLT ou Blockchain de registro nos quais estejam registradas as duplicatas escriturais objeto das operações mencionadas no art. 1o, as instituições financeiras devem:
 
 I - informar a alteração na titularidade efetiva das duplicatas escriturais, quando cabível, no mesmo dia em que o contrato for celebrado; e
 
-II - dar o comando para a constituição de gravames e de ônus sobre as duplicatas escriturais objeto das operações, quando cabível, conforme regulamento do sistema de registro em que elas estejam registradas.
+II - dar o comando para a constituição de gravames e de ônus sobre as duplicatas escriturais objeto das operações, quando cabível, conforme regulamento do contrato inteligente de registro em que elas estejam registradas.
 
 
 Art. 7o As instituições financeiras beneficiárias devem providenciar a desconstituição dos gravames e dos ônus sobre as duplicatas escriturais remanescentes dadas em garantia das operações de crédito, em até dois dias úteis após o cumprimento das obrigações pelo cliente sacador relativas às operações de crédito por ele contratadas ou quando do cancelamento de limite de crédito não cancelável incondicional e unilateralmente pela instituição financeira por solicitação desse cliente.

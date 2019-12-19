@@ -1,4 +1,4 @@
-Dispõe sobre a atividade de escrituração de duplicata escritural, sobre o sistema eletrônico de escrituração gerido por entidade autorizada a exercer essa atividade e sobre o registro e a negociação desses títulos de crédito.
+Dispõe sobre a atividade de escrituração de duplicata escritural, sobre uma rede DLT ou Blockchain com contratos inteligentes de escrituração composta por entidades autorizadas a exercer essa atividade e sobre o registro e a negociação desses títulos de crédito.
 
 A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em ... de ... de 2019, com base nos arts. 9o da Lei no 4.595, de 31 de dezembro de 1964, 28, inciso II, da Lei no 12.810, de 15 de maio de 2013, 3o, § 1o, 4o, § 2o, e 11 da Lei no 13.775, de 20 de dezembro de 2018, combinados com o Decreto no 9.769, de 16 de abril de 2019, e tendo em vista o disposto na Resolução no 4.593, de 28 de agosto de 2017,
 
@@ -10,7 +10,7 @@ CAPÍTULO I
 
 DO OBJETO E DAS DEFINIÇÕES
 
-Art. 1o Esta Circular dispõe sobre a atividade de escrituração de duplicata, sobre o sistema eletrônico de escrituração gerido por entidade autorizada a exercer essa atividade e sobre o registro e a negociação desses títulos de crédito escriturais.
+Art. 1o Esta Circular dispõe sobre a atividade de escrituração de duplicata, sobre a rede DLT ou Blockchain com contratos inteligentes de escrituração e sobre o registro e a negociação desses títulos de crédito escriturais.
 
 
 Art. 2o Para fins do disposto nesta Circular, consideram-se:
@@ -21,7 +21,7 @@ II - duplicata constituída: duplicata escritural emitida em decorrência de t
 
 III - duplicata a constituir: duplicata escritural a ser emitida em decorrência de transação que será realizada em data futura;
 
-IV - escriturador: entidade autorizada a realizar a atividade de escrituração de duplicatas escriturais que opera o sistema eletrônico de escrituração de que trata a Lei no 13.775, de 2018;
+IV - escriturador: entidade autorizada a realizar a atividade de escrituração de duplicatas escriturais e participante da rede eletrônica de escrituração de que trata a Lei no 13.775, de 2018;
 
 V - instituição liquidante: instituição financeira ou de pagamento contratada pelo escriturador, participante dos arranjos de pagamento por meio dos quais ocorra o pagamento das duplicatas escriturais;
 
@@ -49,13 +49,13 @@ b) número de inscrição no CNPJ ou no CPF do sacado.
 
 CAPÍTULO II
 
-DO SISTEMA ELETRÔNICO DE ESCRITURAÇÃO DE DUPLICATAS ESCRITURAIS
+DA REDE DLT OU BLOCKCHAIN E DE CONTRATOS INTELIGENTES DE ESCRITURAÇÃO DE DUPLICATAS ESCRITURAIS
 
 Seção I
 
 Dos Serviços e das Condições de Funcionamento
 
-Art. 3o O sistema eletrônico de escrituração de duplicatas escriturais deverá oferecer, no mínimo, os seguintes serviços referentes às duplicatas por meio dele escrituradas:
+Art. 3o A rede DLT ou Blockchain de escrituração de duplicatas escriturais deverá oferecer, no mínimo, os seguintes serviços referentes às duplicatas por meio dele escrituradas:
 
 I - emitir a duplicata escritural por ordem do sacador;
 
@@ -65,13 +65,11 @@ III - controlar os pagamentos realizados referentes às duplicatas escriturais 
 
 IV - controlar e realizar a transferência da titularidade da duplicata escritural;
 
-V - realizar o registro ou o depósito da duplicata escritural em sistema de registro ou de depósito centralizado operado por entidade registradora ou depositário central autorizado pelo Banco Central do Brasil, bem como incluir em seu sistema os gravames e ônus constituídos sobre esses títulos nessas infraestruturas;
+V - realizar o registro ou o depósito da duplicata escritural em rede DLT ou Blockchain de registro ou de depósito operado por entidades registradoras autorizadas e monitoradas pelo Banco Central do Brasil, bem como incluir nos seus registros ou Blockchain os gravames e ônus constituídos sobre esses títulos nessas infraestruturas;
 
 VI - possibilitar a inserção de informações, de indicações e de declarações referentes às operações realizadas com as duplicatas escriturais;
 
-VII - emitir extratos e disponibilizar as informações armazenadas sobre as duplicatas escriturais; e
-
-VIII - interoperar com outros sistemas eletrônicos de escrituração de duplicatas escriturais, conforme o disposto no art. 19.
+VII - disponibilizar acesso a rede DLT ou Blockchain onde estão armazenadas as informações sobre as duplicatas escriturais; e
 
 Parágrafo único. O escriturador deverá associar a duplicata escritural à respectiva Nota Fiscal eletrônica.
 
@@ -90,7 +88,7 @@ III - negociação dos direitos creditórios oriundos das notas fiscais fatur
 Parágrafo único. O escriturador deverá possibilitar, a critério do sacador, a emissão automática de duplicatas escriturais referentes às Notas Fiscais eletrônicas emitidas pelo sacador.
 
 
-Art. 6o Os escrituradores, conjuntamente, deverão disponibilizar sistema informatizado único que possibilite aos sacados, no mínimo:
+Art. 6o Os escrituradores, conjuntamente, deverão disponibilizar acesso a rede DLT ou Blockchain que possibilite aos sacados, no mínimo:
 
 I - incluir o aceite ou recusa com os respectivos motivos e outras informações referentes à operação associada à duplicata escritural; e
 
@@ -111,21 +109,19 @@ II - dos próprios sacados; ou
 III - das instituições financeiras e de pagamentos.
 
 
-Art. 7o O sistema eletrônico de escrituração de duplicatas escriturais deverá observar as seguintes diretrizes de funcionamento:
+Art. 7o A rede DLT ou Blockchain de escrituração de duplicatas escriturais deverá observar as seguintes diretrizes de funcionamento:
 
-I - a governança do sistema de escrituração deve ser clara e transparente e promover a segurança e a eficiência do sistema de escrituração, tendo em vista a estabilidade do sistema financeiro e os interesses dos diversos tipos de usuários do sistema;
+I - a governança da rede DLT ou Blockchain de escrituração deve ser clara e transparente e promover a segurança e a eficiência do sistema de escrituração, tendo em vista a estabilidade do sistema financeiro e os interesses dos diversos tipos de usuários do sistema;
 
 II - o escriturador deve estabelecer políticas internas que possibilitem a identificação e o gerenciamento dos diversos tipos de riscos aos quais o sistema de escrituração está sujeito;
 
-III - o sistema de escrituração deve ter níveis de confiabilidade operacional compatíveis com a necessidade de seus usuários, principalmente no que tange a disponibilidade e continuidade de negócios e segurança e confidencialidade das informações por ele tratadas;
+III - a rede DLT ou Blockchain de escrituração deve ter níveis de confiabilidade operacional compatíveis com a necessidade de seus usuários, principalmente no que tange a disponibilidade e continuidade de negócios e segurança e confidencialidade das informações por ele tratadas;
 
-IV - o sistema de escrituração deve zelar pela qualidade das informações com base nas quais as duplicatas são emitidas;
+IV - a rede DLT ou Blockchain de escrituração deve zelar pela qualidade das informações com base nas quais as duplicatas são emitidas;
 
-V - o acesso aos serviços do sistema de escrituração deve ser justo e aberto, baseado em critérios objetivos, públicos e adequados à gestão de riscos;
+V - o acesso a rede DLT ou Blockchain de escrituração deve ser justo e aberto, baseado em critérios objetivos, públicos e adequados à gestão de riscos;
 
-VI - o sistema de escrituração deve ser eficiente e adotar padrões de comunicação que facilitem sua integração com outros sistemas de escrituração e com sistemas de seus usuários; e
-
-VII - o sistema de escrituração deve ter regras e procedimentos claros que possibilitem aos seus usuários a compreensão precisa dos seus direitos e deveres, assim como os do escriturador, e também das tarifas, custos e riscos decorrentes de sua participação no sistema.
+VI - a rede DLT ou Blockchain de escrituração deve ter regras e procedimentos claros que possibilitem aos seus usuários a compreensão precisa dos seus direitos e deveres, assim como os do escriturador, e também das tarifas, custos e riscos decorrentes de sua participação no sistema.
 
 
 Seção II
@@ -149,29 +145,27 @@ Art. 9o A etapa de arrecadação de que trata o art. 8o, inciso I, deverá se
 
 § 2o O sacado deverá identificar, no meio de pagamento de que trata o caput, as duplicatas escriturais pagas, sempre que disponível essa funcionalidade, constituindo prova de seu pagamento total ou parcial.
 
-§ 3o Na hipótese de o meio de pagamento não possibilitar a identificação das duplicatas escriturais, a prova de pagamento deverá ser feita com o envio ao sistema eletrônico de escrituração, pelo sacado, por meio de canal a ser disponibilizado pelo escriturador, das informações sobre as duplicatas escriturais pagas.
+§ 3o Na hipótese de o meio de pagamento não possibilitar a identificação das duplicatas escriturais, a prova de pagamento deverá ser feita com o envio a rede DLT ou Blockchain de escrituração, pelo sacado, por meio de canal a ser disponibilizado pelo escriturador, das informações sobre as duplicatas escriturais pagas.
 
 
-Art. 10. A etapa de direcionamento de que trata o art. 8o, inciso II, deverá ser realizada pelas instituições liquidantes dos escrituradores por meio de sistema de compensação e de liquidação único autorizado pelo Banco Central do Brasil, a ser convencionado pelas entidades registradoras, nos termos do art. 20, inciso IV.
+Art. 10. A etapa de direcionamento de que trata o art. 8o, inciso II, deverá ser realizada pelas instituições liquidantes dos escrituradores por meio da mesma rede DLT ou Blockchain autorizada pelo Banco Central do Brasil
 
 § 1o Os recursos a serem liquidados por meio do sistema de que trata o caput deverão ser direcionados às instituições financeiras ou de pagamento detentoras das contas dos titulares das duplicatas escriturais indicadas nos contratos de negociação dessas duplicatas.
 
-§ 2o Os escrituradores deverão gerar as informações sobre o direcionamento dos recursos referentes ao pagamento de duplicatas escriturais a serem trocadas no âmbito do sistema de compensação e de liquidação de que trata o caput.
+§ 2o O direcionamento dos recursos de que trata o caput deverá ser feito no mesmo dia de seu recebimento pelas instituições liquidantes.
 
-§ 3o O direcionamento dos recursos de que trata o caput deverá ser feito no mesmo dia de seu recebimento pelas instituições liquidantes.
+§ 3o Os recursos que, por qualquer motivo, não possam ser direcionados aos seus devidos titulares, deverão ser devolvidos aos respectivos sacados pagadores, no mesmo dia de seu recebimento pela instituição liquidante.
 
-§ 4o Os recursos que, por qualquer motivo, não possam ser direcionados aos seus devidos titulares, deverão ser devolvidos aos respectivos sacados pagadores, no mesmo dia de seu recebimento pela instituição liquidante.
+§ 4o Deverão participar da rede DLT ou Blockchain de que trata o caput as instituições liquidantes e as instituições financeiras e de pagamento mencionadas no § 1o.
 
-§ 5o Deverão participar do sistema de que trata o caput as instituições liquidantes e as instituições financeiras e de pagamento mencionadas no § 1o.
-
-§ 6o A troca de informações de que trata o § 2o deverá ser padronizada.
+§ 5o Devido a natureza da tecnologia da rede DLT ou Blockchain a troca de informações se dará de maneira automatica e instantânea pela rede e seus dados estarão padronizados dentro do funcionamento dos contratos inteligentes.
 
 
 CAPÍTULO III
 
 DA AUTORIZAÇÃO PARA O EXERCÍCIO DA ATIVIDADE DE ESCRITURAÇÃO DE DUPLICATA ESCRITURAL
 
-Art. 11. O exercício da atividade de escrituração de duplicata escritural no âmbito do sistema eletrônico de escrituração depende de prévia autorização do Banco Central do Brasil, que será conferida à entidade requerente após cumpridos os requisitos necessários.
+Art. 11. O exercício da atividade de escrituração de duplicata escritural no âmbito da rede DLT ou Blockchain de escrituração depende de prévia autorização do Banco Central do Brasil, que será conferida à entidade requerente após cumpridos os requisitos necessários.
 
 
 Art. 12. Somente poderão exercer a atividade de escrituração de duplicata escritural as entidades autorizadas a realizar a atividade de registro de ativos financeiros.
@@ -181,7 +175,7 @@ Art. 13. A autorização para o exercício da atividade de escrituração d
 
 I - comprovar patrimônio líquido mínimo R$ 10.000.000,00 (dez milhões de reais);
 
-II - apontar diretor responsável pelo sistema de escrituração;
+II - apontar diretor responsável pelo acesso a realização de transações nos contratos inteligentes da rede DLT ou Blockchain de escrituração;
 
 III - apresentar manuais e regulamentos que disciplinem regras, formas e procedimentos relativos aos serviços prestados e às diretrizes de funcionamento de que trata esta Circular, inclusive os aspectos a serem convencionados conforme dispõe o Capítulo VI; e
 
@@ -197,7 +191,7 @@ Art. 14. O escriturador deverá levar a registro, em sistema de registro, as du
 Parágrafo único. A duplicata deve ser registrada individualmente, com a identificação da unidade à qual pertença.
 
 
-Art. 15. Os contratos de negociação de duplicatas escriturais, independentemente do ambiente no qual sejam celebrados, deverão ser encaminhados ao sistema eletrônico de escrituração e refletidos no sistema de registro, inclusive no que se refere à constituição de gravame e ônus, quando couber.
+Art. 15. Os contratos de negociação de duplicatas escriturais, independentemente do ambiente no qual sejam celebrados, deverão ser encaminhados a rede DLT ou Blockchain de escrituração e refletidos no ledger compartilhado de registro, inclusive no que se refere à constituição de gravame e ônus, quando couber.
 
 
 Art. 16. Para a negociação de duplicatas escriturais constituídas, os contratos de negociação deverão especificar as duplicatas emitidas, objeto da negociação.
@@ -205,16 +199,16 @@ Art. 16. Para a negociação de duplicatas escriturais constituídas, os cont
 
 Art. 17. Para a negociação conjunta de duplicatas escriturais constituídas e a constituir, os contratos de negociação deverão especificar as unidades de duplicatas objeto da negociação.
 
-Parágrafo único. A negociação de uma unidade de duplicatas deverá acarretar a alteração, em favor do beneficiário da operação, no sistema de escrituração de duplicatas e com reflexo imediato no sistema de registro:
+Parágrafo único. A negociação de uma unidade de duplicatas deverá acarretar a alteração, em favor do beneficiário da operação, na rede DLT ou Blockchain de escrituração de duplicatas e com reflexo imediato na ledger compartilhada de registro:
 
-I - da titularidade efetiva ou fiduciária das duplicatas constituídas dessa unidade, disponíveis para negociação na data de sua inclusão no sistema; e
+I - da titularidade efetiva ou fiduciária das duplicatas constituídas dessa unidade, disponíveis para negociação na data de sua inclusão na rede DLT ou Blockchain; e
 
 II - da titularidade efetiva ou fiduciária das duplicatas a constituir dessa unidade, na data de sua emissão.
 
 
 CAPÍTULO V
 
-DOS DEVERES DOS REGISTRADORES E DA INTEROPERABILIDADE ENTRE OS SISTEMAS DE REGISTRO E ENTRE OS SISTEMAS DE ESCRITURAÇÃO
+DOS DEVERES DOS REGISTRADORES E DA SUA PARTICIPAÇÃO NA REDE DLT OU BLOCKCHAIN DE ESCRITURAÇÃO
 
 Seção I
 
@@ -224,7 +218,7 @@ Art. 18. Relativamente ao registro de duplicatas escriturais, os sistemas de reg
 
 I - recepcionar e tratar as informações sobre as duplicatas escriturais enviadas pelos escrituradores para efeito de registro;
 
-II - recepcionar as informações sobre os contratos de negociação de duplicatas escriturais, de que trata o art. 15, para o encaminhamento ao sistema eletrônico de escrituração;
+II - recepcionar as informações sobre os contratos de negociação de duplicatas escriturais, de que trata o art. 15, para o encaminhamento e registro na rede DLT ou Blockchain de escrituração;
 
 III - disponibilizar, aos seus participantes, informações sobre as agendas de duplicatas, desde que autorizado pelos respectivos sacadores; e
 
@@ -239,9 +233,9 @@ II - o histórico de pagamento das duplicatas constituídas e já liquidadas,
 
 Seção II
 
-Da Interoperabilidade entre os Sistemas de Registro e entre os Sistemas de Escrituração
+Da Rede DLT ou Blockchain
 
-Art. 19. Os sistemas de registro e de escrituração de duplicatas escriturais, por meio de regras, procedimentos e tecnologias compatíveis entre si, devem adotar mecanismos de interoperabilidade que possibilitem:
+Art. 19. A rede DLT ou Blockchain de registro e de escrituração de duplicatas escriturais, por meio de regras, procedimentos e tecnologias definidas em contratos inteligentes publicados dentro desta mesma rede, devem adotar mecanismos que possibilitem:
 
 I - a verificação da unicidade do registro e da escrituração das duplicatas escriturais;
 
@@ -249,9 +243,7 @@ II - a troca das informações sobre as agendas de duplicatas necessárias pa
 
 III - a troca das informações sobre os contratos de negociação de duplicatas necessárias para o cumprimento de suas obrigações perante os participantes;
 
-IV - a portabilidade do registro e da escrituração de duplicatas escriturais entre sistemas de registro e entre sistemas de escrituração de duplicatas escriturais; e
-
-V - a troca das demais informações necessárias para o cumprimento de suas obrigações perante os participantes, a serem estabelecidas na convenção de que trata o Capítulo VI.
+IV - a troca das demais informações necessárias para o cumprimento de suas obrigações perante os participantes, a serem estabelecidas na convenção de que trata o Capítulo VI.
 
 
 CAPÍTULO VI
@@ -260,23 +252,17 @@ DA CONVENÇÃO
 
 Art. 20. Para fins de realização da escrituração e do registro de duplicatas escriturais, as entidades autorizadas a realizar a atividade de registro de ativos financeiros ou que se encontrem em processo de autorização na data de publicação desta Circular deverão celebrar convenção, em instrumento formalizado, na qual deverão constar os seguintes aspectos, entre outros julgados necessários ao cumprimento do disposto na legislação e na regulamentação:
 
-I - os procedimentos operacionais para possibilitar:
+I - a padronização:
 
-a) a troca de informações entre os sistemas de registro e de escrituração e as instituições financeiras e outros agentes financiadores;
+a) do leiaute das informações utilizados pelos contratos inteligentes para a escrituração e o registro das duplicatas escriturais;
 
-b) a prestação dos serviços de interoperabilidade entre os sistemas de registro e de escrituração, mencionados no art. 19;
-
-II - a padronização:
-
-a) do leiaute dos arquivos utilizados para a escrituração e o registro das duplicatas escriturais;
-
-b) do leiaute dos arquivos a serem trocados no âmbito do sistema de compensação e de liquidação que trata o art. 10;
+b) do leiaute das informações a serem utilizadas no âmbito de compensação e de liquidação que trata o art. 10;
 
 c) do procedimento de autorização do sacador para disponibilização de informações sobre as agendas de duplicatas de que trata o art. 18, inciso III; e
 
 d) dos parâmetros dos contratos de negociação que digam respeito à especificação das duplicatas escriturais ou das unidades de duplicatas objeto dessas operações;
 
-III - a criação e o funcionamento do sistema informatizado único de que trata o art. 6o, em especial no que se refere a:
+III - a criação e o funcionamento da rede DLT ou Blockchain e de contratos inteligentes de que trata o art. 6o, em especial no que se refere a:
 
 a) funcionalidades e forma de acesso;
 
@@ -284,17 +270,15 @@ b) tecnologias utilizadas; e
 
 c) governança;
 
-IV - a definição do sistema de compensação e de liquidação único de que trata o art. 10;
+IV - a definição dos contratos inteligentes responsáveis pela compensação e de liquidação único de que trata o art. 10;
 
 V - a forma da identificação, nos meios de pagamento mencionados no art. 9o, § 2o, das duplicatas escriturais;
 
-VI - os horários para a troca de informações entre os participantes envolvidos;
+VI - a estrutura de tarifas de interoperabilidade;
 
-VII - a estrutura de tarifas de interoperabilidade;
+VII - termos de adesão e de denúncia à convenção; e
 
-VIII - termos de adesão e de denúncia à convenção; e
-
-IX - os direitos e as obrigações dos participantes da convenção.
+VIII - os direitos e as obrigações dos participantes da convenção.
 
 § 1o A estrutura de tarifas de que trata o inciso VII do caput deverá observar critérios isonômicos e transparentes e ser definida com base em fundamentos econômicos que justifiquem eventuais diferenças nos valores dos serviços de interoperabilidade.
 
